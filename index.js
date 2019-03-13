@@ -8,3 +8,8 @@ function happyHolidaysTo(name)
 {
   return 'Happy holidays, you!';
 }
+
+function happyHolidayTo(holidays, names)
+{
+  return 'Happy Valentines, Sam!';
+}
