@@ -13,3 +13,8 @@ function happyHolidayTo(holidays, names)
 {
   return 'Happy Independence Day, you!';
 }
+
+function holidayCountdown(holidays, days)
+{
+  return 'It's 
+}
