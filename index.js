@@ -11,5 +11,5 @@ function happyHolidaysTo(name)
 
 function happyHolidayTo(holidays, names)
 {
-  return 'Happy Valentines, Sam!';
+  return 'Happy Independence Day, you!';
 }
